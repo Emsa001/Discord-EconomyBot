@@ -1,3 +1,4 @@
+//TEST
 const { Client, Intents, MessageEmbed, Permissions } = require("discord.js");
 const db = require("./database/db");
 const users = require("./database/users");
