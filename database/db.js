@@ -1,11 +1,11 @@
 const { Sequelize } = require("sequelize");
 
 module.exports = new Sequelize(
-  "db_nasdfasdfame",
-  "db_username",
-  "db_passwordasd",
+  "5795_richfun",
+  "5795_richfun",
+  "Wi7#k1@8#K*yU",
   {
-    host: "db_host",
+    host: "evelinka99.atthost24.pl",
     dialect: "mysql",
   }
 );
